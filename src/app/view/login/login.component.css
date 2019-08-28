@@ -1,0 +1,7 @@
+#button-wrapper{
+  text-align: center;
+}
+
+.ng-dirty.ng-invalid:not(form){
+  border: 1px solid red;
+}
